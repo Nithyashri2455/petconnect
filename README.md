@@ -15,7 +15,7 @@ Find verified professionals in your neighborhood for:
 
 Users can search, filter, and view detailed profiles of service providers with ratings and reviews.
 
-![Discover Page](asset-1.png)
+![Discover Page](public/images/Screenshot%202026-02-05%20231947.png)
 
 ### 📅 Community Events
 Stay updated with local pet community events:
@@ -26,7 +26,7 @@ Stay updated with local pet community events:
 
 RSVP to events and connect with other pet owners.
 
-![Events Page](asset-2.png)
+![Events Page](public/images/Screenshot%202026-02-05%20232008.png)
 
 ### 📝 Appointments Management
 Easily manage your appointments:
@@ -43,7 +43,7 @@ Manage your account with:
 - Payment methods
 - Preferences
 
-![Profile Page](asset-3.png)
+![Profile Page](public/images/Screenshot%202026-02-05%20232019.png)
 
 ### 🔐 Authentication
 Secure authentication with:
@@ -51,6 +51,14 @@ Secure authentication with:
 - Account registration
 - Google OAuth integration
 - Password recovery options
+
+![Register Screen](public/images/Screenshot%202026-02-05%20232036.png)
+
+## More Screenshots
+
+![Sign In Screen](public/images/Screenshot%202026-02-05%20232050.png)
+
+![Checkout Modal](public/images/Screenshot%202026-02-05%20232132.png)
 
 ## Tech Stack
 
